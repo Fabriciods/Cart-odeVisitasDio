@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BusinersCard</string>
+    <string name="label_busines_card">Cartão de Visita</string>
+    <string name="new_card">Novo Cartão</string>
+    <string name="name">Nome</string>
+    <string name="phone">Telefone</string>
+    <string name="mail">E-mail</string>
+    <string name="company">Empresa</string>
+    <string name="color">Cor</string>
+    <string name="Confirm">Confirmar</string>
+    <string name="label_show_success">Cartao cadastrado com sucesso</string>
+    <string name="label_share">Compartilhar</string>
+    <string-array name="Colors">
+        <tem>Pastel</tem>
+        <tem>Violeta</tem>
+        <item>Loreal</item>
+
+    </string-array>
+</resources>
